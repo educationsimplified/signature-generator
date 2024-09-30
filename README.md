@@ -1,1 +1,1 @@
-# youtube-thumbnail-downloader
+# signature-generator
